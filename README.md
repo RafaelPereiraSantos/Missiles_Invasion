@@ -9,4 +9,4 @@ https://play.google.com/store/apps/dev?id=7764721247699817094
 
 Você pode usar todos os scripts criados por mim, dês de que me referencie nos creditos de seus projetos e me mande um link :)
 
-Nota: Não disponibilizo sprites ou dos meus jogos por demanda dos artistas que colaboram com o projeto ou por decisão propria.
+Nota: Não disponibilizo sprites ou musica e efeitos sonoros dos meus jogos por demanda dos artistas que colaboram com o projeto ou por decisão propria.
